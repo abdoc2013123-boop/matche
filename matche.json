@@ -1,23 +1,51 @@
-[
-  {
-    "teams": "ريال مدريد × مصر10",
-    "time": "22:00",
-    "league": "الدوري الإسباني",
-    "date": "",
-    "channel": 1
-  },
-  {
-    "teams": "ريال مدريد × مانشستر سيتي",
-    "time": "20:30",
-    "league": "الدوري الإنجليزي",
-    "date": "",
-    "channel": 2
-  },
-  {
-    "teams": "الهلال × النصر",
-    "time": "21:00",
-    "league": "الدوري السعودي",
-    "date": "",
-    "channel": 3
-  }
-]
+{
+  "networkName": "شبكة واي نت",
+  "themeColor": "#d4af37",
+
+  "channels": [
+    {
+      "id": 1,
+      "name": "beIN Sports 1",
+      "url": "http://10.10.10.10/live/test.m3u8"
+    },
+    {
+      "id": 2,
+      "name": "beIN Sports 2",
+      "url": "http://10.10.10.10/live/test1.m3u8"
+    },
+    {
+      "id": 3,
+      "name": "beIN Sports 3",
+      "url": "http://10.10.10.10/live/test2.m3u8"
+    },
+    {
+      "id": 4,
+      "name": "Channel 8",
+      "url": "http://10.10.10.10/live/test3.m3u8"
+    }
+  ],
+
+  "matches": [
+    {
+      "teams": "ريال مدريد × مصر10",
+      "time": "22:00",
+      "league": "الدوري الإسباني",
+      "date": "",
+      "channel": 1
+    },
+    {
+      "teams": "ريال مدريد × مانشستر سيتي",
+      "time": "20:30",
+      "league": "الدوري الإنجليزي",
+      "date": "",
+      "channel": 2
+    },
+    {
+      "teams": "الهلال × النصر",
+      "time": "21:00",
+      "league": "الدوري السعودي",
+      "date": "",
+      "channel": 3
+    }
+  ]
+}
