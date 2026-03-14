@@ -1,9 +1,12 @@
-[
-  {
-    "teams": "مصر × الاردن",
-    "time": "",
-    "league": "",
-    "date": "",
-    "channel": 1
-  }
-]
+{
+  "networkName": "حنين",
+  "matches": [
+    {
+      "teams": "مصر × الاردن",
+      "time": "",
+      "league": "",
+      "date": "",
+      "channel": 1
+    }
+  ]
+}
