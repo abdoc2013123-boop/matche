@@ -1,12 +1,4 @@
 {
-  "networkName": "واي سعيد",
-  "matches": [
-    {
-      "teams": "سعودية ×مصر",
-      "time": "",
-      "league": "",
-      "date": "",
-      "channel": 1
-    }
-  ]
+  "networkName": "سعودية",
+  "matches": []
 }
