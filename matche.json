@@ -1,5 +1,5 @@
 {
-  "siteName": "واي نت",
+  "siteName": "5واي نت",
   "channels": [
     {"name":"test","url":"http://10.10.10.10/live/test.m3u8"},
     {"name":"test1","url":"http://10.10.10.10/live/test1.m3u8"},
