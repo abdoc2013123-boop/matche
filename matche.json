@@ -1,5 +1,7 @@
 {
   "siteName": "واي نت قوي جدا جدا",
+  "ticker": "",
+  "themeColor": "#00ff00",
   "channels": [
     {
       "name": "بي ان سبورت 1",
@@ -18,8 +20,10 @@
       "url": "http://10.10.10.10/live/test3.m3u8"
     }
   ],
-  "backup": [
-    "http://172.20.254.1/.SERIAL/SERIAL1.html",
-    "https://kor.fntvs.net/"
-  ]
+  "backups": [
+    "",
+    "",
+    ""
+  ],
+  "extra": []
 }
